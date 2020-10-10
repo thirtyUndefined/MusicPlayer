@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "野狼Disco",
+        "album": "野狼Disco",
+        "singer": "宝石Gem",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "孤身",
+        "album": "孤身",
+        "singer": "徐秉龙",
+        "duration": 211,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "大鱼",
+        "album": "大鱼",
+        "singer": "周深",
+        "duration": 313,
+        "isLike": false
+    }
+
+]
